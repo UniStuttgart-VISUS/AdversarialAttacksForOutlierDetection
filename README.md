@@ -3,7 +3,14 @@ Dietmar Saupe, Tim Bleile
 
 ---
 
-This supplemental material provides the source code for all methods evaluated in our study, enabling reproduction of the main experiments described in the paper. Included are:
+This supplemental material provides the source code for all methods evaluated in our study, enabling reproduction of the main experiments described in the paper. 
+
+
+### Reference
+The reference that should be cited for their usage is:
+- **Saupe, D., Bleile, T., Robustness and accuracy of mean opinion scores with hard and soft outlier detection, 17th International Conference on Quality of Multimedia Experience (QoMEX), Sept./Oct. 2025, Madrid, Spain.**
+
+Included are:
 
 ### Code
 
