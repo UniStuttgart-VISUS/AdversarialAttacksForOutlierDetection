@@ -1,4 +1,4 @@
-# Supplemental Material for the paper ["Robustness and accuracy of mean opinion scores"](https://ieeexplore.ieee.org/Xplore/home.jsp)
+# Supplemental Material for the paper ["Robustness and accuracy of mean opinion scores with hard and soft outlier detection"](https://ieeexplore.ieee.org/Xplore/home.jsp)
 Dietmar Saupe, Tim Bleile
 
 ---
